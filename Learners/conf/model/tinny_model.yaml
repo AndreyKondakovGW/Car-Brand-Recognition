@@ -1,0 +1,9 @@
+name: "tinny model"
+params:
+  channel1_size: 8
+  channel2_size: 4
+  kernel_size: 3
+  drop_out: 0.2
+  labels_num: 100
+  size: 64
+

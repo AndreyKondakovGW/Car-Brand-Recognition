@@ -1,0 +1,11 @@
+defaults:
+  - _self_
+  - backbone: resnet18
+  - lossfunction: arcface
+
+name: "embedding_model"
+params:
+    input_size: 224
+    labels_num: 100
+    emb_size: 256
+    dropout: 0.5

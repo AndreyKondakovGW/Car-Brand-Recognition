@@ -1,0 +1,5 @@
+name: "arcface"
+s: 64.0
+m: 0.70
+easy_margin: False
+auto_s: False

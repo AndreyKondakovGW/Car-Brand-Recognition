@@ -1,0 +1,5 @@
+name: "resnet18"
+pretrained: True
+fine_tune: False
+freeze_up: True
+freeze_up_to: -1

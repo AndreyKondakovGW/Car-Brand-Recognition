@@ -1,0 +1,9 @@
+name: "ViT"
+params:
+  in_channels: 3
+  patch_size: 16
+  emb_size: 128
+  size: 256
+  depth: 3
+  n_classes: 100
+  
